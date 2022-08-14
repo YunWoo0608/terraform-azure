@@ -8,5 +8,5 @@ Azure
 >= 3.0.0 
 
 # Module 
-Resource Group ( Upload )
+Resource Group
 <br>Vnet
